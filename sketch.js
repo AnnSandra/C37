@@ -14,7 +14,7 @@ function preload()
     //load images here
     dogImage=loadImage("images/dogImg.png");
     dogHappy=loadImage("images/happy dog.png");
-    milkBottle=loadImage("images/Milk.png");
+    milkBottle=loadImage("images/milk.png");
     bedroom=loadImage("images/Bed Room.png");
     garden=loadImage("images/Garden.png");
     washroom=loadImage("images/Wash Room.png");
